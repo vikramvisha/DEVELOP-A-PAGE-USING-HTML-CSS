@@ -1,0 +1,14 @@
+p{
+    font-style: oblique;
+    padding: 32px;
+}
+.clor1{
+    font-style: calc();
+    padding: 15px;
+    margin: 40px;
+}
+.clor2{
+    font-style: initial;
+    padding: 15px;
+    margin: 20px;
+}
